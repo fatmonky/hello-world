@@ -1,2 +1,3 @@
 # hello-world
 This is an initial trial of Github as per https://guides.github.com/activities/hello-world/
+PJ here, trying to explore using Github. Last time I touched this was in CIID, when we were working on the Immersive Experiences course. That felt like a past-life.... 
